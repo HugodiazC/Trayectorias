@@ -1,0 +1,150 @@
+﻿PLAN_INTERES,ID,Gender,Age,NIVEL_INTERES,TIPO_PROGRAMA,MODALIDAD,OFRECIO_APOYO,POR_OFERTADO,PROMEDIO,CANAL,"Dirección (binario, U= capital, R=provincia)",Estado Civil ,MOTIVO_DESCARTE
+Especialidad en Innovación,274576,M,44,Especialidad,EN LINEA,Ejecutivo,0,0,72,Digital - Facebook,U,1,Costo
+Especialidad en Innovación,340962,M,43,Especialidad,EN LINEA,Ejecutivo,1,40,75,Digital - Facebook,U,0,Prefiere presencial
+Especialidad en Innovación,370676,F,43,Especialidad,EN LINEA,Ejecutivo,1,40,80,Digital - Facebook,U,0,Duración
+Especialidad en Innovación,420035,M,43,Especialidad,EN LINEA,Ejecutivo,1,40,79,Presencial - Campus,U,1,Eligio otra escuela
+Especialidad en Innovación,434520,F,30,Especialidad,EN LINEA,Ejecutivo,1,40,77,Digital - Facebook,U,0,Costo
+Especialidad en Innovación,532743,F,34,Especialidad,EN LINEA,Ejecutivo,1,40,83,Digital - Facebook,R,1,Costo
+Especialidad en Innovación,565257,M,28,Especialidad,EN LINEA,Ejecutivo,1,30,72,Presencial - Campus,U,0,Duración
+Especialidad en Innovación,572102,F,32,Especialidad,EN LINEA,Ejecutivo,0,0,81,Digital - Facebook,U,1,Prefiere presencial
+Especialidad en Innovación,577230,F,37,Especialidad,EN LINEA,Ejecutivo,1,30,83,Digital - Facebook,R,1,Costo
+Especialidad en Innovación,712941,M,38,Especialidad,EN LINEA,Ejecutivo,1,40,81,Digital - Facebook,U,0,Duración
+Especialidad en Innovación,723713,F,27,Especialidad,EN LINEA,Ejecutivo,0,0,76,Digital - Facebook,U,0,Costo
+Especialidad en Innovación,732481,M,31,Especialidad,EN LINEA,Ejecutivo,1,40,86,Call Center,U,0,Eligio otra escuela
+Especialidad en Innovación,736180,F,40,Especialidad,EN LINEA,Ejecutivo,1,30,79,Digital - Facebook,U,1,Duración
+Especialidad en Innovación,740733,F,38,Especialidad,EN LINEA,Ejecutivo,1,20,78,Digital - Facebook,U,0,Plan de estudios
+Especialidad en Innovación,797777,F,45,Especialidad,EN LINEA,Ejecutivo,1,30,78,Digital - Facebook,U,0,Prefiere presencial
+Especialidad en Innovación,826476,M,45,Especialidad,EN LINEA,Ejecutivo,1,40,71,Digital - Facebook,U,0,Prefiere presencial
+Especialidad en Innovación,980979,M,42,Especialidad,EN LINEA,Ejecutivo,1,50,80,Digital - Facebook,U,1,Eligio otra escuela
+Especialidad en Innovación,1076427,F,26,Especialidad,EN LINEA,Ejecutivo,0,0,70,Call Center,U,1,Duración
+Especialidad en Innovación,1138478,F,41,Especialidad,EN LINEA,Ejecutivo,1,30,78,Digital - Google,U,1,Costo
+Licenciatura en Administración,81822,F,27,Profesional,EN LINEA,Ejecutivo,1,40,80,Digital - Facebook,U,1,Plan de estudios
+Licenciatura en Administración,107259,F,23,Profesional,EN LINEA,Ejecutivo,1,40,71,Digital - Google,U,1,Plan de estudios
+Licenciatura en Administración,235423,F,19,Profesional,EN LINEA,Ejecutivo,1,20,70,Presencial - Campus,U,1,Costo
+Licenciatura en Administración,272109,M,34,Profesional,EN LINEA,Ejecutivo,1,35,85,Digital - Facebook,U,0,Costo
+Licenciatura en Administración,275602,F,36,Profesional,EN LINEA,Ejecutivo,1,30,87,Digital - Google,R,1,Eligio otra escuela
+Licenciatura en Administración,287656,M,22,Profesional,EN LINEA,Ejecutivo,1,50,85,Digital - Google,U,0,Duración
+Licenciatura en Administración,322919,M,20,Profesional,EN LINEA,Ejecutivo,1,40,79,Digital - Facebook,U,1,Costo
+Licenciatura en Administración,361484,M,24,Profesional,EN LINEA,Ejecutivo,1,40,84,Presencial - Campus,R,1,Costo
+Licenciatura en Administración,411663,F,33,Profesional,EN LINEA,Ejecutivo,1,30,75,Digital - Facebook,U,1,Costo
+Licenciatura en Administración,596942,M,24,Profesional,EN LINEA,Ejecutivo,1,40,76,Call Center,U,1,Plan de estudios
+Licenciatura en Administración,659303,F,36,Profesional,EN LINEA,Ejecutivo,1,30,80,Digital - Google,U,0,Costo
+Licenciatura en Administración,948929,M,23,Profesional,EN LINEA,Ejecutivo,1,45,79,Digital - Google,U,0,Costo
+Licenciatura en Administración,1006145,F,23,Profesional,EN LINEA,Ejecutivo,1,40,75,Digital - Facebook,U,1,Costo
+Licenciatura en Administración,1012673,M,26,Profesional,EN LINEA,Ejecutivo,1,15,81,Digital - Facebook,U,0,Costo
+Licenciatura en Administración,1087629,F,28,Profesional,EN LINEA,Ejecutivo,1,30,76,Presencial - Campus,U,0,Prefiere presencial
+Licenciatura en Administración,1106859,F,27,Profesional,EN LINEA,Ejecutivo,1,35,74,Digital - Facebook,U,1,Costo
+Licenciatura en Administración,1170315,M,31,Profesional,EN LINEA,Ejecutivo,1,30,76,Presencial - Campus,U,1,Plan de estudios
+Licenciatura en Administración,1182496,M,31,Profesional,EN LINEA,Ejecutivo,1,30,83,Digital - Facebook,U,1,Costo
+Licenciatura en Administración,1199970,M,30,Profesional,EN LINEA,Ejecutivo,1,40,81,Call Center,U,1,Duración
+Licenciatura en Comercio y Negocios Internacionales,85252,M,26,Profesional,EN LINEA,Ejecutivo,1,50,80,Digital - Facebook,U,0,Costo
+Licenciatura en Comercio y Negocios Internacionales,226103,F,32,Profesional,EN LINEA,Ejecutivo,1,40,70,Digital - Google,U,0,Duración
+Licenciatura en Comercio y Negocios Internacionales,283006,M,36,Profesional,EN LINEA,Ejecutivo,1,30,74,Digital - Facebook,U,1,Duración
+Licenciatura en Comercio y Negocios Internacionales,316379,M,27,Profesional,EN LINEA,Ejecutivo,0,0,83,Digital - Google,U,0,Prefiere presencial
+Licenciatura en Comercio y Negocios Internacionales,528642,F,23,Profesional,EN LINEA,Ejecutivo,0,0,75,Call Center,U,1,Costo
+Licenciatura en Comercio y Negocios Internacionales,581729,M,19,Profesional,EN LINEA,Ejecutivo,1,40,72,Presencial - Campus,U,1,Duración
+Licenciatura en Comercio y Negocios Internacionales,623861,F,22,Profesional,EN LINEA,Ejecutivo,1,50,85,Digital - Facebook,U,1,Costo
+Licenciatura en Comercio y Negocios Internacionales,670841,M,37,Profesional,EN LINEA,Ejecutivo,1,30,73,Presencial - Campus,U,1,Prefiere presencial
+Licenciatura en Comercio y Negocios Internacionales,825650,F,21,Profesional,EN LINEA,Ejecutivo,0,0,70,Digital - Facebook,U,1,Duración
+Licenciatura en Comercio y Negocios Internacionales,912716,F,19,Profesional,EN LINEA,Ejecutivo,1,30,75,Presencial - Campus,U,0,Plan de estudios
+Licenciatura en Comercio y Negocios Internacionales,956344,M,28,Profesional,EN LINEA,Ejecutivo,1,40,85,Digital - Google,U,1,Costo
+Licenciatura en Comercio y Negocios Internacionales,1043201,M,34,Profesional,EN LINEA,Ejecutivo,0,0,85,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Comercio y Negocios Internacionales,1137557,M,20,Profesional,EN LINEA,Ejecutivo,1,40,72,Digital - Facebook,U,0,Duración
+Licenciatura en Derecho,238928,M,21,Profesional,EN LINEA,Ejecutivo,1,40,78,Call Center,U,1,Plan de estudios
+Licenciatura en Derecho,282111,F,31,Profesional,EN LINEA,Ejecutivo,1,40,74,Presencial - Campus,U,1,Plan de estudios
+Licenciatura en Derecho,330711,M,37,Profesional,EN LINEA,Ejecutivo,1,40,81,Digital - Facebook,R,1,Plan de estudios
+Licenciatura en Derecho,410189,F,23,Profesional,EN LINEA,Ejecutivo,1,30,74,Digital - Facebook,U,1,Plan de estudios
+Licenciatura en Derecho,458576,F,33,Profesional,EN LINEA,Ejecutivo,1,50,85,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Derecho,553131,F,33,Profesional,EN LINEA,Ejecutivo,1,35,79,Call Center,U,1,Eligio otra escuela
+Licenciatura en Derecho,644707,M,32,Profesional,EN LINEA,Ejecutivo,1,40,70,Digital - Facebook,U,1,Costo
+Licenciatura en Derecho,686207,F,30,Profesional,EN LINEA,Ejecutivo,1,45,90,Digital - Google,U,1,Duración
+Licenciatura en Derecho,686628,M,29,Profesional,EN LINEA,Ejecutivo,1,25,85,Digital - Facebook,U,0,Duración
+Licenciatura en Derecho,731540,F,38,Profesional,EN LINEA,Ejecutivo,1,30,85,Call Center,U,0,Duración
+Licenciatura en Derecho,758103,M,20,Profesional,EN LINEA,Ejecutivo,0,0,87,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Derecho,899576,F,27,Profesional,EN LINEA,Ejecutivo,1,40,87,Digital - Facebook,R,1,Prefiere presencial
+Licenciatura en Derecho,1078808,M,24,Profesional,EN LINEA,Ejecutivo,1,35,71,Presencial - Campus,R,0,Duración
+Licenciatura en Derecho,1201488,F,35,Profesional,EN LINEA,Ejecutivo,1,45,85,Digital - Google,U,0,Duración
+Licenciatura en Educación y Desarrollo,90231,M,20,Profesional,EN LINEA,Ejecutivo,1,50,83,Digital - Facebook,U,1,Costo
+Licenciatura en Educación y Desarrollo,220370,F,26,Profesional,EN LINEA,Ejecutivo,0,0,75,Digital - Facebook,U,0,Costo
+Licenciatura en Educación y Desarrollo,694069,F,19,Profesional,EN LINEA,Ejecutivo,1,20,85,Presencial - Campus,U,1,Costo
+Licenciatura en Educación y Desarrollo,713777,F,33,Profesional,EN LINEA,Ejecutivo,1,40,75,Digital - Facebook,U,1,Duración
+Licenciatura en Educación y Desarrollo,778782,M,32,Profesional,EN LINEA,Ejecutivo,1,50,80,Digital - Facebook,R,1,Plan de estudios
+Licenciatura en Educación y Desarrollo,1081702,F,25,Profesional,EN LINEA,Ejecutivo,0,0,78,Digital - Facebook,R,1,Duración
+Licenciatura en Educación y Desarrollo,1199708,F,34,Profesional,EN LINEA,Ejecutivo,1,30,87,Digital - Google,U,0,Duración
+Licenciatura en Educación y Desarrollo,1211988,F,19,Profesional,EN LINEA,Ejecutivo,1,40,73,Digital - Facebook,U,1,Costo
+Licenciatura en Ingeniería en Computación Administrativa,113476,F,38,Profesional,EN LINEA,Ejecutivo,1,40,79,Presencial - Campus,U,1,Duración
+Licenciatura en Ingeniería en Computación Administrativa,258966,M,30,Profesional,EN LINEA,Ejecutivo,0,0,76,Presencial - Campus,U,1,Duración
+Licenciatura en Ingeniería en Computación Administrativa,316416,M,34,Profesional,EN LINEA,Ejecutivo,0,0,83,Digital - Facebook,U,1,Duración
+Licenciatura en Ingeniería en Computación Administrativa,452851,F,36,Profesional,EN LINEA,Ejecutivo,0,0,80,Digital - Facebook,U,1,Duración
+Licenciatura en Ingeniería en Computación Administrativa,511261,M,27,Profesional,EN LINEA,Ejecutivo,1,30,76,Digital - Facebook,U,0,Costo
+Licenciatura en Ingeniería en Computación Administrativa,890810,M,37,Profesional,EN LINEA,Ejecutivo,1,40,74,Digital - Facebook,U,1,Duración
+Licenciatura en Ingeniería Industrial y de Sistemas,58911,F,26,Profesional,EN LINEA,Ejecutivo,1,40,75,Presencial - Campus,U,0,Prefiere presencial
+Licenciatura en Ingeniería Industrial y de Sistemas,88957,M,27,Profesional,EN LINEA,Ejecutivo,1,20,81,Presencial - Campus,U,1,Eligio otra escuela
+Licenciatura en Ingeniería Industrial y de Sistemas,119315,M,26,Profesional,EN LINEA,Ejecutivo,1,50,88,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Ingeniería Industrial y de Sistemas,388508,M,20,Profesional,EN LINEA,Ejecutivo,1,40,81,Digital - Facebook,U,1,Plan de estudios
+Licenciatura en Ingeniería Industrial y de Sistemas,391426,M,27,Profesional,EN LINEA,Ejecutivo,1,30,77,Presencial - Campus,U,1,Eligio otra escuela
+Licenciatura en Ingeniería Industrial y de Sistemas,425734,F,27,Profesional,EN LINEA,Ejecutivo,1,40,86,Presencial - Campus,U,0,Eligio otra escuela
+Licenciatura en Ingeniería Industrial y de Sistemas,508005,M,25,Profesional,EN LINEA,Ejecutivo,1,35,70,Digital - Facebook,U,0,Prefiere presencial
+Licenciatura en Ingeniería Industrial y de Sistemas,554232,F,22,Profesional,EN LINEA,Ejecutivo,1,60,90,Digital - Google,U,0,Costo
+Licenciatura en Ingeniería Industrial y de Sistemas,763877,F,19,Profesional,EN LINEA,Ejecutivo,1,20,72,Presencial - Campus,R,1,Eligio otra escuela
+Licenciatura en Ingeniería Industrial y de Sistemas,810575,M,37,Profesional,EN LINEA,Ejecutivo,0,0,79,Presencial - Campus,U,0,Plan de estudios
+Licenciatura en Ingeniería Industrial y de Sistemas,1021269,F,25,Profesional,EN LINEA,Ejecutivo,0,0,80,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Ingeniería Industrial y de Sistemas,1077697,M,36,Profesional,EN LINEA,Ejecutivo,1,40,83,Digital - Facebook,R,1,Duración
+Licenciatura en Ingeniería Industrial y de Sistemas,1132031,M,33,Profesional,EN LINEA,Ejecutivo,1,50,80,Digital - Facebook,R,0,Duración
+Licenciatura en Ingeniería Industrial y de Sistemas,1134666,F,25,Profesional,EN LINEA,Ejecutivo,1,30,75,Digital - Facebook,U,1,Eligio otra escuela
+Licenciatura en Mercadotecnia y Publicidad,69613,F,23,Profesional,EN LINEA,Ejecutivo,1,40,85,Digital - Facebook,U,0,Costo
+Licenciatura en Mercadotecnia y Publicidad,243139,M,23,Profesional,EN LINEA,Ejecutivo,0,0,77,Digital - Facebook,U,0,Plan de estudios
+Licenciatura en Mercadotecnia y Publicidad,245430,M,21,Profesional,EN LINEA,Ejecutivo,1,40,73,Digital - Facebook,U,1,Costo
+Licenciatura en Mercadotecnia y Publicidad,360885,M,27,Profesional,EN LINEA,Ejecutivo,1,30,84,Presencial - Campus,U,0,Prefiere presencial
+Licenciatura en Mercadotecnia y Publicidad,367217,F,24,Profesional,EN LINEA,Ejecutivo,1,30,81,Digital - Facebook,R,0,Costo
+Licenciatura en Mercadotecnia y Publicidad,452763,F,34,Profesional,EN LINEA,Ejecutivo,1,35,75,Digital - Facebook,U,0,Prefiere presencial
+Licenciatura en Mercadotecnia y Publicidad,534664,F,34,Profesional,EN LINEA,Ejecutivo,1,30,75,Digital - Facebook,U,1,Duración
+Licenciatura en Mercadotecnia y Publicidad,537725,F,25,Profesional,EN LINEA,Ejecutivo,1,50,89,Call Center,U,0,Prefiere presencial
+Licenciatura en Mercadotecnia y Publicidad,544414,F,23,Profesional,EN LINEA,Ejecutivo,1,40,82,Digital - Facebook,U,1,Duración
+Licenciatura en Mercadotecnia y Publicidad,640955,M,26,Profesional,EN LINEA,Ejecutivo,1,60,90,Digital - Facebook,U,1,Plan de estudios
+Licenciatura en Mercadotecnia y Publicidad,831341,F,38,Profesional,EN LINEA,Ejecutivo,1,50,85,Digital - Facebook,U,0,Duración
+Licenciatura en Mercadotecnia y Publicidad,1076507,F,37,Profesional,EN LINEA,Ejecutivo,0,0,87,Digital - Google,U,0,Costo
+Licenciatura en Mercadotecnia y Publicidad,1102830,F,26,Profesional,EN LINEA,Ejecutivo,1,35,79,Digital - Facebook,U,0,Costo
+Licenciatura en Mercadotecnia y Publicidad,1108302,M,31,Profesional,EN LINEA,Ejecutivo,1,35,73,Call Center,R,1,Costo
+Licenciatura en Mercadotecnia y Publicidad,1183321,F,25,Profesional,EN LINEA,Ejecutivo,1,30,74,Digital - Facebook,U,1,Duración
+Licenciatura en Psicología Empresarial,219395,M,36,Profesional,EN LINEA,Ejecutivo,1,30,78,Presencial - Campus,U,1,Prefiere presencial
+Licenciatura en Psicología Empresarial,394258,F,36,Profesional,EN LINEA,Ejecutivo,1,20,75,Call Center,U,1,Plan de estudios
+Licenciatura en Psicología Empresarial,689129,M,26,Profesional,EN LINEA,Ejecutivo,1,40,79,Digital - Facebook,U,1,Plan de estudios
+Licenciatura en Psicología Empresarial,748306,F,25,Profesional,EN LINEA,Ejecutivo,1,40,86,Digital - Google,U,0,Duración
+Licenciatura en Psicología Empresarial,977372,M,21,Profesional,EN LINEA,Ejecutivo,1,35,82,Digital - Google,R,1,Prefiere presencial
+Licenciatura en Psicología Empresarial,1224653,M,38,Profesional,EN LINEA,Ejecutivo,1,40,83,Presencial - Campus,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Calidad y  Productividad,52226,F,38,Maestría,EN LINEA,Ejecutivo,0,0,82,Digital - Facebook,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Calidad y  Productividad,362900,F,31,Maestría,EN LINEA,Ejecutivo,1,40,73,Digital - Facebook,R,1,Prefiere presencial
+Maestría en Administración de Negocios Área Calidad y  Productividad,385942,M,44,Maestría,EN LINEA,Ejecutivo,0,0,81,Digital - Facebook,U,1,Costo
+Maestría en Administración de Negocios Área Calidad y  Productividad,415554,M,36,Maestría,EN LINEA,Ejecutivo,1,45,77,Digital - Facebook,U,1,Plan de estudios
+Maestría en Administración de Negocios Área Calidad y  Productividad,459702,F,30,Maestría,EN LINEA,Ejecutivo,1,40,82,Digital - Facebook,U,0,Duración
+Maestría en Administración de Negocios Área Calidad y  Productividad,575563,F,45,Maestría,EN LINEA,Ejecutivo,1,40,78,Digital - Facebook,R,0,Eligio otra escuela
+Maestría en Administración de Negocios Área Calidad y  Productividad,609631,M,38,Maestría,EN LINEA,Ejecutivo,1,40,80,Digital - Google,U,0,Costo
+Maestría en Administración de Negocios Área Calidad y  Productividad,778900,F,30,Maestría,EN LINEA,Ejecutivo,0,0,80,Call Center,U,0,Duración
+Maestría en Administración de Negocios Área Calidad y  Productividad,861100,M,39,Maestría,EN LINEA,Ejecutivo,0,0,77,Digital - Google,R,1,Plan de estudios
+Maestría en Administración de Negocios Área Calidad y  Productividad,890592,F,40,Maestría,EN LINEA,Ejecutivo,1,30,85,Digital - Google,U,0,Eligio otra escuela
+Maestría en Administración de Negocios Área Calidad y  Productividad,912777,M,48,Maestría,EN LINEA,Ejecutivo,1,40,72,Digital - Facebook,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Calidad y  Productividad,922554,M,40,Maestría,EN LINEA,Ejecutivo,1,20,73,Digital - Facebook,R,0,Eligio otra escuela
+Maestría en Administración de Negocios Área Calidad y  Productividad,950819,M,25,Maestría,EN LINEA,Ejecutivo,1,40,86,Digital - Facebook,U,0,Duración
+Maestría en Administración de Negocios Área Calidad y  Productividad,1067790,M,29,Maestría,EN LINEA,Ejecutivo,1,30,70,Digital - Facebook,U,1,Costo
+Maestría en Administración de Negocios Área Calidad y  Productividad,1213478,F,28,Maestría,EN LINEA,Ejecutivo,1,20,81,Digital - Google,U,1,Costo
+Maestría en Administración de Negocios Área Finanzas,63832,F,48,Maestría,EN LINEA,Ejecutivo,1,30,83,Presencial - Campus,U,0,Duración
+Maestría en Administración de Negocios Área Finanzas,328365,M,27,Maestría,EN LINEA,Ejecutivo,1,40,84,Presencial - Campus,U,0,Costo
+Maestría en Administración de Negocios Área Finanzas,444259,M,47,Maestría,EN LINEA,Ejecutivo,1,15,77,Digital - Facebook,U,0,Duración
+Maestría en Administración de Negocios Área Finanzas,713664,F,26,Maestría,EN LINEA,Ejecutivo,1,35,78,Digital - Facebook,U,0,Costo
+Maestría en Administración de Negocios Área Finanzas,734716,M,48,Maestría,EN LINEA,Ejecutivo,0,0,80,Digital - Google,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Finanzas,1047336,F,35,Maestría,EN LINEA,Ejecutivo,1,45,85,Digital - Google,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Logística,84164,M,47,Maestría,EN LINEA,Ejecutivo,1,60,90,Digital - Facebook,U,0,Duración
+Maestría en Administración de Negocios Área Logística,166140,M,28,Maestría,EN LINEA,Ejecutivo,1,35,73,Digital - Google,U,1,Plan de estudios
+Maestría en Administración de Negocios Área Logística,779993,F,41,Maestría,EN LINEA,Ejecutivo,1,20,81,Digital - Google,U,0,Plan de estudios
+Maestría en Administración de Negocios Área Mercadotecnia,333265,M,28,Maestría,EN LINEA,Ejecutivo,1,30,72,Digital - Google,U,1,Duración
+Maestría en Administración de Negocios Área Mercadotecnia,836084,F,41,Maestría,EN LINEA,Ejecutivo,1,30,72,Presencial - Campus,U,1,Costo
+Maestría en Administración de Negocios Área Mercadotecnia,843303,M,33,Maestría,EN LINEA,Ejecutivo,1,20,78,Digital - Facebook,U,1,Prefiere presencial
+Maestría en Administración de Negocios Área Mercadotecnia,1108732,F,36,Maestría,EN LINEA,Ejecutivo,1,40,79,Presencial - Campus,U,1,Eligio otra escuela
+Maestría en Educación,87154,F,48,Maestría,EN LINEA,Ejecutivo,1,30,87,Presencial - Campus,U,1,Costo
+Maestría en Educación,432477,F,36,Maestría,EN LINEA,Ejecutivo,1,20,85,Call Center,U,0,Costo
+Maestría en Educación,601396,F,32,Maestría,EN LINEA,Ejecutivo,0,0,84,Digital - Facebook,R,1,Costo
+Maestría en Educación,751888,F,42,Maestría,EN LINEA,Ejecutivo,1,30,85,Presencial - Campus,U,0,Prefiere presencial
+Maestría en Gestión de Tecnologías de Información,345549,F,34,Maestría,EN LINEA,Ejecutivo,1,40,83,Digital - Google,U,0,Prefiere presencial
+Maestría en Gestión de Tecnologías de Información,800322,M,41,Maestría,EN LINEA,Ejecutivo,1,50,76,Digital - Facebook,U,1,Duración
+Maestría en Gestión de Tecnologías de Información,823845,M,42,Maestría,EN LINEA,Ejecutivo,1,45,74,Presencial - Campus,U,0,Duración

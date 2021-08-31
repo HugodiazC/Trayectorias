@@ -1,0 +1,597 @@
+﻿PLAN_INTERES,Gender,Age,NIVEL_INTERES,OFRECIO_APOYO,POR_OFERTADO,PROMEDIO,Direccion,Estado_Civil ,EXP_LABORAL,CURSOS_T,PREMANENCIA,CANAL
+Especialidad en Innovación,0,43,Especialidad,0,0,72,0,1,0,1,1,1
+Especialidad en Innovación,0,40,Especialidad,1,40,75,0,1,0,1,0,0
+Especialidad en Innovación,1,44,Especialidad,1,40,80,1,0,1,1,0,3
+Especialidad en Innovación,1,27,Especialidad,1,40,79,0,0,0,1,1,2
+Especialidad en Innovación,1,44,Especialidad,1,40,77,0,0,1,0,1,2
+Especialidad en Innovación,0,26,Especialidad,1,40,83,0,0,0,1,1,1
+Especialidad en Innovación,0,40,Especialidad,1,30,72,0,0,1,0,1,0
+Especialidad en Innovación,0,43,Especialidad,0,0,81,1,0,1,0,0,3
+Especialidad en Innovación,0,37,Especialidad,1,30,83,1,1,1,0,0,3
+Especialidad en Innovación,0,34,Especialidad,1,40,81,1,0,0,1,1,1
+Especialidad en Innovación,0,39,Especialidad,0,0,76,1,0,1,1,1,1
+Especialidad en Innovación,0,30,Especialidad,1,40,86,1,0,0,0,1,3
+Especialidad en Innovación,1,44,Especialidad,1,30,79,0,1,1,1,1,0
+Especialidad en Innovación,0,43,Especialidad,1,20,78,1,0,0,0,0,0
+Especialidad en Innovación,0,44,Especialidad,1,30,78,0,0,0,1,0,1
+Especialidad en Innovación,1,37,Especialidad,1,40,71,1,1,0,0,0,2
+Especialidad en Innovación,1,42,Especialidad,1,50,80,0,1,0,1,1,0
+Especialidad en Innovación,1,39,Especialidad,0,0,70,1,0,1,1,0,0
+Especialidad en Innovación,0,35,Especialidad,1,30,78,1,0,0,0,0,3
+Licenciatura en Administración,1,38,Profesional,1,40,80,0,0,1,1,1,2
+Licenciatura en Administración,1,25,Profesional,1,40,71,0,0,0,1,0,2
+Licenciatura en Administración,0,23,Profesional,1,20,70,1,1,0,1,0,0
+Licenciatura en Administración,1,35,Profesional,1,35,85,0,0,1,1,1,1
+Licenciatura en Administración,0,37,Profesional,1,30,87,1,1,1,1,0,0
+Licenciatura en Administración,0,25,Profesional,1,50,85,0,1,0,1,0,0
+Licenciatura en Administración,1,35,Profesional,1,40,79,0,0,1,0,1,1
+Licenciatura en Administración,0,28,Profesional,1,40,84,0,0,1,1,0,2
+Licenciatura en Administración,0,20,Profesional,1,30,75,0,0,1,0,0,3
+Licenciatura en Administración,0,30,Profesional,1,40,76,1,0,1,1,0,1
+Licenciatura en Administración,0,27,Profesional,1,30,80,0,1,1,0,1,2
+Licenciatura en Administración,1,31,Profesional,1,45,79,0,0,1,1,1,0
+Licenciatura en Administración,1,35,Profesional,1,40,75,1,0,0,0,0,3
+Licenciatura en Administración,0,23,Profesional,1,15,81,0,1,1,0,0,2
+Licenciatura en Administración,1,36,Profesional,1,30,76,1,0,0,1,1,1
+Licenciatura en Administración,1,24,Profesional,1,35,74,0,0,1,0,0,3
+Licenciatura en Administración,0,24,Profesional,1,30,76,0,1,1,1,1,3
+Licenciatura en Administración,1,32,Profesional,1,30,83,1,0,0,1,1,0
+Licenciatura en Administración,0,21,Profesional,1,40,81,0,0,0,1,1,2
+Licenciatura en Comercio y Negocios Internacionales,0,35,Profesional,1,50,80,1,1,1,0,1,0
+Licenciatura en Comercio y Negocios Internacionales,1,23,Profesional,1,40,70,1,0,1,0,1,1
+Licenciatura en Comercio y Negocios Internacionales,1,30,Profesional,1,30,74,0,0,1,0,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,35,Profesional,0,0,83,1,1,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,1,28,Profesional,0,0,75,0,0,0,0,1,3
+Licenciatura en Comercio y Negocios Internacionales,0,26,Profesional,1,40,72,1,0,1,0,0,0
+Licenciatura en Comercio y Negocios Internacionales,0,24,Profesional,1,50,85,0,0,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,1,27,Profesional,1,30,73,0,0,0,1,1,3
+Licenciatura en Comercio y Negocios Internacionales,1,20,Profesional,0,0,70,0,1,0,0,1,2
+Licenciatura en Comercio y Negocios Internacionales,1,33,Profesional,1,30,75,0,1,1,1,0,3
+Licenciatura en Comercio y Negocios Internacionales,0,34,Profesional,1,40,85,1,0,1,0,0,3
+Licenciatura en Comercio y Negocios Internacionales,1,22,Profesional,0,0,85,0,1,1,0,0,0
+Licenciatura en Comercio y Negocios Internacionales,1,34,Profesional,1,40,72,0,0,0,1,0,2
+Licenciatura en Derecho,0,31,Profesional,1,40,78,1,1,0,1,1,1
+Licenciatura en Derecho,1,29,Profesional,1,40,74,1,1,1,0,0,2
+Licenciatura en Derecho,0,26,Profesional,1,40,81,1,1,0,0,0,0
+Licenciatura en Derecho,0,30,Profesional,1,30,74,1,1,1,0,0,0
+Licenciatura en Derecho,1,31,Profesional,1,50,85,0,0,0,0,0,0
+Licenciatura en Derecho,0,27,Profesional,1,35,79,0,1,0,0,1,3
+Licenciatura en Derecho,0,29,Profesional,1,40,70,0,0,0,1,0,0
+Licenciatura en Derecho,0,23,Profesional,1,45,90,0,0,1,1,1,1
+Licenciatura en Derecho,1,31,Profesional,1,25,85,1,1,0,1,1,2
+Licenciatura en Derecho,0,26,Profesional,1,30,85,1,1,1,1,0,3
+Licenciatura en Derecho,0,33,Profesional,0,0,87,1,0,1,1,1,3
+Licenciatura en Derecho,1,36,Profesional,1,40,87,1,0,1,1,0,0
+Licenciatura en Derecho,1,35,Profesional,1,35,71,0,1,1,1,0,1
+Licenciatura en Derecho,0,27,Profesional,1,45,85,1,0,0,1,1,1
+Licenciatura en Educación y Desarrollo,1,27,Profesional,1,50,83,0,0,1,1,0,0
+Licenciatura en Educación y Desarrollo,0,35,Profesional,0,0,75,0,0,1,1,1,3
+Licenciatura en Educación y Desarrollo,0,19,Profesional,1,20,85,0,1,1,1,0,2
+Licenciatura en Educación y Desarrollo,0,24,Profesional,1,40,75,1,1,1,1,1,1
+Licenciatura en Educación y Desarrollo,1,36,Profesional,1,50,80,1,0,0,1,0,1
+Licenciatura en Educación y Desarrollo,0,33,Profesional,0,0,78,0,1,1,1,0,3
+Licenciatura en Educación y Desarrollo,1,34,Profesional,1,30,87,1,0,1,1,0,2
+Licenciatura en Educación y Desarrollo,0,20,Profesional,1,40,73,1,1,1,1,0,0
+Licenciatura en Ingeniería en Computación Administrativa,1,33,Profesional,1,40,79,1,0,0,1,1,1
+Licenciatura en Ingeniería en Computación Administrativa,1,34,Profesional,0,0,76,1,0,0,1,1,0
+Licenciatura en Ingeniería en Computación Administrativa,1,22,Profesional,0,0,83,1,0,0,1,1,3
+Licenciatura en Ingeniería en Computación Administrativa,0,35,Profesional,0,0,80,1,1,0,1,1,0
+Licenciatura en Ingeniería en Computación Administrativa,1,30,Profesional,1,30,76,1,0,1,1,0,3
+Licenciatura en Ingeniería en Computación Administrativa,0,30,Profesional,1,40,74,0,0,1,1,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,22,Profesional,1,40,75,0,0,0,0,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,1,32,Profesional,1,20,81,0,0,0,1,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,29,Profesional,1,50,88,1,1,1,1,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,20,Profesional,1,40,81,1,1,1,1,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,20,Profesional,1,30,77,1,1,1,1,1,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,22,Profesional,1,40,86,1,0,1,0,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,22,Profesional,1,35,70,1,0,0,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,37,Profesional,1,60,90,1,1,0,1,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,1,20,Profesional,1,20,72,0,1,1,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,21,Profesional,0,0,79,1,1,1,1,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,28,Profesional,0,0,80,1,1,0,0,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,1,36,Profesional,1,40,83,1,0,0,1,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,23,Profesional,1,50,80,1,0,0,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,36,Profesional,1,30,75,1,1,1,1,1,2
+Licenciatura en Mercadotecnia y Publicidad,0,31,Profesional,1,40,85,0,1,1,0,1,1
+Licenciatura en Mercadotecnia y Publicidad,0,31,Profesional,0,0,77,0,0,1,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,0,24,Profesional,1,40,73,1,1,1,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,0,36,Profesional,1,30,84,1,0,0,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,0,23,Profesional,1,30,81,0,1,1,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,35,Profesional,1,35,75,0,0,0,1,1,2
+Licenciatura en Mercadotecnia y Publicidad,0,35,Profesional,1,30,75,1,1,1,1,1,1
+Licenciatura en Mercadotecnia y Publicidad,0,21,Profesional,1,50,89,0,1,0,0,1,2
+Licenciatura en Mercadotecnia y Publicidad,0,30,Profesional,1,40,82,1,0,1,0,0,0
+Licenciatura en Mercadotecnia y Publicidad,0,32,Profesional,1,60,90,0,0,1,1,1,2
+Licenciatura en Mercadotecnia y Publicidad,0,22,Profesional,1,50,85,0,0,1,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,34,Profesional,0,0,87,1,0,0,0,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,32,Profesional,1,35,79,1,0,0,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,29,Profesional,1,35,73,1,0,1,0,1,2
+Licenciatura en Mercadotecnia y Publicidad,1,23,Profesional,1,30,74,0,1,0,0,1,3
+Licenciatura en Psicología Empresarial,0,25,Profesional,1,30,78,0,0,0,1,0,2
+Licenciatura en Psicología Empresarial,0,22,Profesional,1,20,75,0,1,0,0,1,1
+Licenciatura en Psicología Empresarial,0,37,Profesional,1,40,79,1,0,1,1,0,0
+Licenciatura en Psicología Empresarial,0,24,Profesional,1,40,86,1,1,1,1,1,0
+Licenciatura en Psicología Empresarial,0,35,Profesional,1,35,82,1,0,0,1,0,2
+Licenciatura en Psicología Empresarial,1,36,Profesional,1,40,83,1,1,1,1,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,45,Maestría,0,0,82,1,1,0,1,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,44,Maestría,1,40,73,0,1,0,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,33,Maestría,0,0,81,0,0,0,0,1,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,33,Maestría,1,45,77,0,1,1,0,1,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,45,Maestría,1,40,82,1,1,1,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,35,Maestría,1,40,78,0,0,0,0,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,25,Maestría,1,40,80,0,0,0,1,1,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,41,Maestría,0,0,80,1,1,1,0,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,42,Maestría,0,0,77,0,0,1,0,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,35,Maestría,1,30,85,1,0,0,0,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,40,Maestría,1,40,72,1,1,1,0,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,29,Maestría,1,20,73,1,1,0,1,0,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,37,Maestría,1,40,86,0,1,1,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,36,Maestría,1,30,70,0,0,0,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,47,Maestría,1,20,81,1,1,1,0,1,0
+Maestría en Administración de Negocios Área Finanzas,0,25,Maestría,1,30,83,1,1,1,1,0,0
+Maestría en Administración de Negocios Área Finanzas,0,26,Maestría,1,40,84,0,1,1,1,1,1
+Maestría en Administración de Negocios Área Finanzas,1,32,Maestría,1,15,77,0,1,1,0,1,3
+Maestría en Administración de Negocios Área Finanzas,0,28,Maestría,1,35,78,1,0,1,1,0,0
+Maestría en Administración de Negocios Área Finanzas,0,45,Maestría,0,0,80,1,0,0,1,0,1
+Maestría en Administración de Negocios Área Finanzas,0,46,Maestría,1,45,85,1,0,0,0,0,3
+Maestría en Administración de Negocios Área Logística,1,28,Maestría,1,60,90,1,1,1,0,1,3
+Maestría en Administración de Negocios Área Logística,0,40,Maestría,1,35,73,1,0,0,1,1,1
+Maestría en Administración de Negocios Área Logística,0,28,Maestría,1,20,81,1,0,1,1,1,0
+Maestría en Administración de Negocios Área Mercadotecnia,0,26,Maestría,1,30,72,1,0,1,1,0,1
+Maestría en Administración de Negocios Área Mercadotecnia,0,47,Maestría,1,30,72,1,1,0,0,1,2
+Maestría en Administración de Negocios Área Mercadotecnia,0,41,Maestría,1,20,78,1,0,0,1,0,2
+Maestría en Administración de Negocios Área Mercadotecnia,1,45,Maestría,1,40,79,0,1,1,1,1,2
+Maestría en Educación,1,29,Maestría,1,30,87,1,1,0,0,0,1
+Maestría en Educación,0,41,Maestría,1,20,85,0,1,1,0,1,1
+Maestría en Educación,0,34,Maestría,0,0,84,0,1,1,0,1,1
+Maestría en Educación,0,37,Maestría,1,30,85,1,1,1,1,1,3
+Maestría en Gestión de Tecnologías de Información,1,26,Maestría,1,40,83,0,0,1,1,0,3
+Maestría en Gestión de Tecnologías de Información,1,27,Maestría,1,50,76,1,0,1,0,1,2
+Maestría en Gestión de Tecnologías de Información,1,30,Maestría,1,45,74,0,1,0,1,1,3
+Especialidad en Innovación,1,38,Especialidad,0,0,90,1,0,0,0,0,1
+Especialidad en Innovación,0,31,Especialidad,1,40,76,0,0,1,0,0,0
+Especialidad en Innovación,0,31,Especialidad,1,40,76,1,0,0,0,1,2
+Especialidad en Innovación,0,39,Especialidad,1,40,90,0,1,1,0,1,2
+Especialidad en Innovación,1,32,Especialidad,1,40,81,1,1,1,1,1,2
+Especialidad en Innovación,0,24,Especialidad,1,40,82,1,0,0,0,0,2
+Especialidad en Innovación,1,30,Especialidad,1,30,85,0,1,0,0,1,0
+Especialidad en Innovación,1,30,Especialidad,0,0,83,0,0,1,0,0,2
+Especialidad en Innovación,0,38,Especialidad,1,30,81,0,1,1,0,1,2
+Especialidad en Innovación,0,37,Especialidad,1,40,77,0,1,1,0,1,1
+Especialidad en Innovación,0,35,Especialidad,0,0,82,0,1,1,1,1,2
+Especialidad en Innovación,0,45,Especialidad,1,40,84,1,0,1,0,0,2
+Especialidad en Innovación,1,26,Especialidad,1,30,85,1,1,0,0,0,2
+Especialidad en Innovación,0,25,Especialidad,1,20,88,1,0,1,1,0,3
+Especialidad en Innovación,1,35,Especialidad,1,30,89,0,0,0,1,1,2
+Especialidad en Innovación,0,38,Especialidad,1,40,77,1,1,0,1,1,2
+Especialidad en Innovación,1,28,Especialidad,1,50,77,0,0,1,0,1,3
+Especialidad en Innovación,1,29,Especialidad,0,0,84,1,1,1,0,0,0
+Especialidad en Innovación,0,31,Especialidad,1,30,83,0,0,1,1,1,1
+Licenciatura en Administración,0,19,Profesional,1,40,81,0,0,1,0,0,1
+Licenciatura en Administración,0,30,Profesional,1,40,80,1,0,0,1,0,1
+Licenciatura en Administración,1,34,Profesional,1,20,87,1,0,0,1,1,2
+Licenciatura en Administración,1,19,Profesional,1,35,90,0,1,0,0,1,2
+Licenciatura en Administración,0,29,Profesional,1,30,75,1,1,0,1,1,3
+Licenciatura en Administración,1,36,Profesional,1,50,78,0,1,1,0,0,2
+Licenciatura en Administración,1,32,Profesional,1,40,78,0,0,1,0,0,1
+Licenciatura en Administración,1,27,Profesional,1,40,87,0,0,1,1,1,3
+Licenciatura en Administración,1,23,Profesional,1,30,79,0,0,0,0,0,3
+Licenciatura en Administración,0,25,Profesional,1,40,83,0,1,0,0,1,1
+Licenciatura en Administración,1,38,Profesional,1,30,88,0,1,0,0,1,1
+Licenciatura en Administración,0,20,Profesional,1,45,87,0,0,1,1,0,0
+Licenciatura en Administración,1,32,Profesional,1,40,79,0,1,1,1,0,2
+Licenciatura en Administración,0,23,Profesional,1,15,88,0,1,1,0,0,1
+Licenciatura en Administración,1,35,Profesional,1,30,89,0,0,1,0,0,0
+Licenciatura en Administración,1,38,Profesional,1,35,82,0,0,1,0,0,1
+Licenciatura en Administración,0,33,Profesional,1,30,82,0,1,1,0,1,2
+Licenciatura en Administración,1,26,Profesional,1,30,83,1,0,1,1,0,3
+Licenciatura en Administración,0,27,Profesional,1,40,84,1,1,1,1,0,1
+Licenciatura en Comercio y Negocios Internacionales,1,31,Profesional,1,50,78,1,0,1,0,1,0
+Licenciatura en Comercio y Negocios Internacionales,1,38,Profesional,1,40,79,0,0,1,1,0,0
+Licenciatura en Comercio y Negocios Internacionales,0,19,Profesional,1,30,81,0,1,0,1,1,1
+Licenciatura en Comercio y Negocios Internacionales,1,32,Profesional,0,0,90,1,0,0,1,1,0
+Licenciatura en Comercio y Negocios Internacionales,0,23,Profesional,0,0,86,1,1,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,0,27,Profesional,1,40,89,1,1,1,1,0,2
+Licenciatura en Comercio y Negocios Internacionales,1,27,Profesional,1,50,90,0,1,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,1,20,Profesional,1,30,84,0,1,0,0,1,3
+Licenciatura en Comercio y Negocios Internacionales,1,32,Profesional,0,0,78,1,1,0,1,0,0
+Licenciatura en Comercio y Negocios Internacionales,0,26,Profesional,1,30,77,1,0,0,1,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,33,Profesional,1,40,83,1,0,1,0,0,3
+Licenciatura en Comercio y Negocios Internacionales,0,19,Profesional,0,0,80,0,0,1,0,0,3
+Licenciatura en Comercio y Negocios Internacionales,1,37,Profesional,1,40,75,0,0,1,0,0,2
+Licenciatura en Derecho,1,34,Profesional,1,40,83,0,1,0,1,0,1
+Licenciatura en Derecho,0,21,Profesional,1,40,83,1,1,1,1,0,2
+Licenciatura en Derecho,0,24,Profesional,1,40,89,1,1,0,1,0,2
+Licenciatura en Derecho,0,34,Profesional,1,30,82,1,1,0,0,1,2
+Licenciatura en Derecho,0,25,Profesional,1,50,80,0,0,0,0,0,3
+Licenciatura en Derecho,1,23,Profesional,1,35,89,1,1,0,1,0,1
+Licenciatura en Derecho,0,31,Profesional,1,40,81,1,1,1,1,1,0
+Licenciatura en Derecho,1,33,Profesional,1,45,83,0,1,0,1,1,2
+Licenciatura en Derecho,1,31,Profesional,1,25,78,0,0,0,1,1,2
+Licenciatura en Derecho,1,28,Profesional,1,30,86,0,0,0,1,0,0
+Licenciatura en Derecho,1,38,Profesional,0,0,81,1,0,0,0,1,2
+Licenciatura en Derecho,1,27,Profesional,1,40,77,1,1,0,1,0,2
+Licenciatura en Derecho,1,28,Profesional,1,35,82,0,1,0,0,1,2
+Licenciatura en Derecho,1,35,Profesional,1,45,80,0,0,0,0,1,2
+Licenciatura en Educación y Desarrollo,1,27,Profesional,1,50,89,1,1,1,1,1,2
+Licenciatura en Educación y Desarrollo,1,29,Profesional,0,0,88,0,0,0,1,1,3
+Licenciatura en Educación y Desarrollo,0,19,Profesional,1,20,80,0,1,1,1,0,1
+Licenciatura en Educación y Desarrollo,1,36,Profesional,1,40,84,0,1,1,1,0,1
+Licenciatura en Educación y Desarrollo,0,26,Profesional,1,50,83,0,1,1,1,0,2
+Licenciatura en Educación y Desarrollo,0,36,Profesional,0,0,85,1,0,1,0,1,1
+Licenciatura en Educación y Desarrollo,1,34,Profesional,1,30,89,1,1,0,0,1,3
+Licenciatura en Educación y Desarrollo,0,38,Profesional,1,40,78,1,1,0,0,0,2
+Licenciatura en Ingeniería en Computación Administrativa,0,29,Profesional,1,40,83,0,0,1,1,1,0
+Licenciatura en Ingeniería en Computación Administrativa,1,28,Profesional,0,0,80,0,1,1,0,0,1
+Licenciatura en Ingeniería en Computación Administrativa,0,29,Profesional,0,0,85,0,1,0,0,1,3
+Licenciatura en Ingeniería en Computación Administrativa,0,30,Profesional,0,0,85,1,1,1,1,1,0
+Licenciatura en Ingeniería en Computación Administrativa,0,38,Profesional,1,30,84,0,0,0,0,1,3
+Licenciatura en Ingeniería en Computación Administrativa,1,35,Profesional,1,40,78,1,0,1,1,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,19,Profesional,1,40,89,0,1,1,1,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,19,Profesional,1,20,89,1,1,0,0,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,37,Profesional,1,50,75,1,0,1,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,27,Profesional,1,40,89,1,0,1,1,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,20,Profesional,1,30,86,1,1,0,1,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,0,30,Profesional,1,40,83,0,1,0,0,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,35,Profesional,1,35,81,0,0,1,1,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,20,Profesional,1,60,86,0,0,1,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,31,Profesional,1,20,88,1,1,1,1,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,26,Profesional,0,0,77,1,0,0,1,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,1,37,Profesional,0,0,75,1,0,0,0,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,1,31,Profesional,1,40,87,0,1,1,1,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,29,Profesional,1,50,86,0,1,0,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,35,Profesional,1,30,83,0,0,0,1,1,1
+Licenciatura en Mercadotecnia y Publicidad,1,33,Profesional,1,40,77,1,1,0,1,1,0
+Licenciatura en Mercadotecnia y Publicidad,1,30,Profesional,0,0,75,1,0,0,0,1,1
+Licenciatura en Mercadotecnia y Publicidad,1,23,Profesional,1,40,77,0,1,0,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,1,25,Profesional,1,30,81,1,0,1,1,1,1
+Licenciatura en Mercadotecnia y Publicidad,0,31,Profesional,1,30,88,0,0,1,0,0,3
+Licenciatura en Mercadotecnia y Publicidad,1,26,Profesional,1,35,84,1,1,0,1,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,20,Profesional,1,30,76,1,0,1,1,0,0
+Licenciatura en Mercadotecnia y Publicidad,1,24,Profesional,1,50,87,0,0,0,1,0,0
+Licenciatura en Mercadotecnia y Publicidad,1,23,Profesional,1,40,79,0,0,0,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,32,Profesional,1,60,76,1,0,1,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,1,19,Profesional,1,50,85,1,1,0,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,1,26,Profesional,0,0,78,1,1,1,1,0,2
+Licenciatura en Mercadotecnia y Publicidad,0,20,Profesional,1,35,87,0,1,1,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,28,Profesional,1,35,87,0,1,0,1,0,3
+Licenciatura en Mercadotecnia y Publicidad,0,32,Profesional,1,30,78,1,0,1,1,1,1
+Licenciatura en Psicología Empresarial,0,25,Profesional,1,30,77,1,1,0,1,1,0
+Licenciatura en Psicología Empresarial,0,20,Profesional,1,20,85,0,0,1,1,1,1
+Licenciatura en Psicología Empresarial,0,38,Profesional,1,40,84,0,0,0,0,0,2
+Licenciatura en Psicología Empresarial,1,36,Profesional,1,40,83,1,1,1,1,1,1
+Licenciatura en Psicología Empresarial,0,24,Profesional,1,35,86,1,1,0,1,0,0
+Licenciatura en Psicología Empresarial,0,24,Profesional,1,40,76,0,1,0,1,1,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,28,Maestría,0,0,81,0,1,1,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,41,Maestría,1,40,90,1,1,0,0,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,38,Maestría,0,0,86,1,0,1,1,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,30,Maestría,1,45,85,0,1,1,0,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,30,Maestría,1,40,87,0,0,1,1,1,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,30,Maestría,1,40,87,1,1,0,1,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,26,Maestría,1,40,84,0,1,1,0,1,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,29,Maestría,0,0,85,0,1,1,1,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,46,Maestría,0,0,81,0,1,1,1,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,26,Maestría,1,30,88,0,1,0,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,47,Maestría,1,40,86,1,0,1,1,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,25,Maestría,1,20,87,1,1,1,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,37,Maestría,1,40,81,0,1,1,1,1,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,25,Maestría,1,30,88,0,0,1,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,29,Maestría,1,20,76,0,0,0,1,1,2
+Maestría en Administración de Negocios Área Finanzas,1,30,Maestría,1,30,78,1,1,0,1,1,3
+Maestría en Administración de Negocios Área Finanzas,1,33,Maestría,1,40,81,1,0,1,1,1,0
+Maestría en Administración de Negocios Área Finanzas,1,41,Maestría,1,15,89,0,1,1,1,1,1
+Maestría en Administración de Negocios Área Finanzas,1,47,Maestría,1,35,86,1,0,1,1,0,2
+Maestría en Administración de Negocios Área Finanzas,0,46,Maestría,0,0,85,0,1,1,1,1,2
+Maestría en Administración de Negocios Área Finanzas,0,41,Maestría,1,45,77,1,1,1,0,1,1
+Maestría en Administración de Negocios Área Logística,0,39,Maestría,1,60,89,0,1,1,1,0,3
+Maestría en Administración de Negocios Área Logística,0,34,Maestría,1,35,78,1,0,1,0,1,0
+Maestría en Administración de Negocios Área Logística,1,25,Maestría,1,20,83,1,1,1,1,0,2
+Maestría en Administración de Negocios Área Mercadotecnia,1,40,Maestría,1,30,86,1,1,1,1,1,1
+Maestría en Administración de Negocios Área Mercadotecnia,0,48,Maestría,1,30,84,1,0,1,1,1,2
+Maestría en Administración de Negocios Área Mercadotecnia,0,26,Maestría,1,20,86,0,1,0,0,1,0
+Maestría en Administración de Negocios Área Mercadotecnia,0,35,Maestría,1,40,80,1,0,1,0,0,2
+Maestría en Educación,0,26,Maestría,1,30,85,0,0,1,0,1,2
+Maestría en Educación,1,36,Maestría,1,20,78,1,0,1,0,0,2
+Maestría en Educación,1,36,Maestría,0,0,85,0,1,1,0,1,0
+Maestría en Educación,1,36,Maestría,1,30,89,0,1,1,0,1,1
+Maestría en Gestión de Tecnologías de Información,0,32,Maestría,1,40,78,1,1,1,0,1,3
+Maestría en Gestión de Tecnologías de Información,1,44,Maestría,1,50,88,0,0,0,1,0,2
+Maestría en Gestión de Tecnologías de Información,1,31,Maestría,1,45,83,0,1,1,1,0,1
+Especialidad en Innovación,0,32,Especialidad,0,0,79,1,1,0,0,0,0
+Especialidad en Innovación,0,25,Especialidad,1,40,85,0,0,1,1,0,0
+Especialidad en Innovación,0,37,Especialidad,1,40,88,0,0,1,0,1,0
+Especialidad en Innovación,1,24,Especialidad,1,40,86,1,0,0,1,0,1
+Especialidad en Innovación,0,29,Especialidad,1,40,89,1,1,0,1,1,0
+Especialidad en Innovación,0,43,Especialidad,1,40,79,1,0,1,1,0,0
+Especialidad en Innovación,1,32,Especialidad,1,30,76,0,1,0,0,1,2
+Especialidad en Innovación,0,39,Especialidad,0,0,84,1,1,0,1,0,3
+Especialidad en Innovación,0,42,Especialidad,1,30,83,0,1,1,0,0,0
+Especialidad en Innovación,1,38,Especialidad,1,40,84,1,1,1,0,0,1
+Especialidad en Innovación,1,45,Especialidad,0,0,83,0,1,0,1,0,0
+Especialidad en Innovación,1,45,Especialidad,1,40,90,0,1,0,1,1,1
+Especialidad en Innovación,0,34,Especialidad,1,30,81,0,1,1,1,1,2
+Especialidad en Innovación,1,35,Especialidad,1,20,79,0,0,1,0,1,3
+Especialidad en Innovación,1,44,Especialidad,1,30,81,0,1,1,0,1,1
+Especialidad en Innovación,1,38,Especialidad,1,40,75,0,1,0,1,0,3
+Especialidad en Innovación,1,38,Especialidad,1,50,80,0,0,1,1,1,0
+Especialidad en Innovación,1,34,Especialidad,0,0,84,1,1,0,0,0,2
+Especialidad en Innovación,0,26,Especialidad,1,30,79,1,1,0,1,0,2
+Licenciatura en Administración,0,24,Profesional,1,40,75,0,1,1,0,0,0
+Licenciatura en Administración,1,38,Profesional,1,40,82,0,0,0,1,0,2
+Licenciatura en Administración,0,22,Profesional,1,20,86,0,1,1,0,1,3
+Licenciatura en Administración,1,24,Profesional,1,35,77,1,0,1,0,1,0
+Licenciatura en Administración,1,32,Profesional,1,30,81,1,1,1,1,0,1
+Licenciatura en Administración,0,27,Profesional,1,50,88,0,1,0,1,1,1
+Licenciatura en Administración,0,22,Profesional,1,40,86,1,0,0,0,0,3
+Licenciatura en Administración,0,32,Profesional,1,40,78,0,0,0,1,0,0
+Licenciatura en Administración,1,30,Profesional,1,30,89,0,1,1,1,0,3
+Licenciatura en Administración,0,33,Profesional,1,40,84,1,0,0,0,0,1
+Licenciatura en Administración,1,31,Profesional,1,30,86,1,0,0,1,1,0
+Licenciatura en Administración,0,31,Profesional,1,45,83,1,1,0,1,0,3
+Licenciatura en Administración,0,32,Profesional,1,40,88,1,1,0,0,0,1
+Licenciatura en Administración,1,38,Profesional,1,15,76,0,0,1,0,1,0
+Licenciatura en Administración,0,19,Profesional,1,30,78,1,1,1,1,0,2
+Licenciatura en Administración,0,22,Profesional,1,35,80,1,1,0,0,0,1
+Licenciatura en Administración,1,19,Profesional,1,30,84,0,0,0,0,1,1
+Licenciatura en Administración,0,21,Profesional,1,30,90,0,1,1,1,1,0
+Licenciatura en Administración,1,36,Profesional,1,40,82,1,1,0,0,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,32,Profesional,1,50,83,0,1,0,0,0,0
+Licenciatura en Comercio y Negocios Internacionales,0,33,Profesional,1,40,76,0,1,1,1,0,2
+Licenciatura en Comercio y Negocios Internacionales,0,33,Profesional,1,30,83,0,0,0,1,1,1
+Licenciatura en Comercio y Negocios Internacionales,1,21,Profesional,0,0,77,1,0,1,0,1,2
+Licenciatura en Comercio y Negocios Internacionales,0,33,Profesional,0,0,82,0,0,0,0,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,38,Profesional,1,40,78,1,1,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,0,25,Profesional,1,50,80,0,0,1,1,1,3
+Licenciatura en Comercio y Negocios Internacionales,1,26,Profesional,1,30,83,1,1,1,1,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,29,Profesional,0,0,84,0,1,0,1,0,3
+Licenciatura en Comercio y Negocios Internacionales,0,36,Profesional,1,30,84,0,1,0,0,0,1
+Licenciatura en Comercio y Negocios Internacionales,1,34,Profesional,1,40,81,1,0,0,0,1,2
+Licenciatura en Comercio y Negocios Internacionales,0,31,Profesional,0,0,83,1,1,0,1,0,2
+Licenciatura en Comercio y Negocios Internacionales,0,25,Profesional,1,40,87,0,1,1,0,0,2
+Licenciatura en Derecho,1,23,Profesional,1,40,81,0,0,1,1,1,0
+Licenciatura en Derecho,1,21,Profesional,1,40,85,1,1,1,1,1,2
+Licenciatura en Derecho,1,38,Profesional,1,40,80,0,0,0,1,0,1
+Licenciatura en Derecho,0,23,Profesional,1,30,83,1,0,0,0,0,0
+Licenciatura en Derecho,1,34,Profesional,1,50,76,0,0,0,1,1,1
+Licenciatura en Derecho,0,26,Profesional,1,35,79,1,1,0,0,1,0
+Licenciatura en Derecho,0,36,Profesional,1,40,86,0,0,1,0,1,3
+Licenciatura en Derecho,1,26,Profesional,1,45,75,1,0,0,1,0,1
+Licenciatura en Derecho,0,27,Profesional,1,25,80,0,0,1,0,1,0
+Licenciatura en Derecho,1,22,Profesional,1,30,78,1,1,1,1,1,1
+Licenciatura en Derecho,1,23,Profesional,0,0,84,0,0,1,1,0,0
+Licenciatura en Derecho,0,38,Profesional,1,40,80,1,0,0,1,1,1
+Licenciatura en Derecho,1,29,Profesional,1,35,76,0,1,0,0,1,0
+Licenciatura en Derecho,1,25,Profesional,1,45,76,0,0,1,0,0,0
+Licenciatura en Educación y Desarrollo,0,32,Profesional,1,50,75,0,0,0,1,0,2
+Licenciatura en Educación y Desarrollo,1,36,Profesional,0,0,83,1,0,1,1,1,0
+Licenciatura en Educación y Desarrollo,0,20,Profesional,1,20,85,1,0,0,0,1,1
+Licenciatura en Educación y Desarrollo,0,24,Profesional,1,40,75,0,0,1,1,0,1
+Licenciatura en Educación y Desarrollo,0,32,Profesional,1,50,78,1,1,0,1,1,1
+Licenciatura en Educación y Desarrollo,1,20,Profesional,0,0,87,0,1,1,1,0,1
+Licenciatura en Educación y Desarrollo,1,38,Profesional,1,30,76,0,0,1,0,1,1
+Licenciatura en Educación y Desarrollo,1,25,Profesional,1,40,75,1,1,0,1,0,3
+Licenciatura en Ingeniería en Computación Administrativa,1,28,Profesional,1,40,87,1,0,0,1,0,2
+Licenciatura en Ingeniería en Computación Administrativa,1,26,Profesional,0,0,83,0,1,0,1,0,0
+Licenciatura en Ingeniería en Computación Administrativa,1,30,Profesional,0,0,87,1,0,0,0,1,1
+Licenciatura en Ingeniería en Computación Administrativa,1,32,Profesional,0,0,78,1,1,0,1,0,1
+Licenciatura en Ingeniería en Computación Administrativa,1,37,Profesional,1,30,76,1,1,1,0,1,2
+Licenciatura en Ingeniería en Computación Administrativa,1,34,Profesional,1,40,78,0,0,1,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,26,Profesional,1,40,82,1,1,1,1,1,3
+Licenciatura en Ingeniería Industrial y de Sistemas,1,21,Profesional,1,20,81,1,1,1,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,27,Profesional,1,50,88,1,1,1,0,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,25,Profesional,1,40,75,0,0,0,1,1,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,28,Profesional,1,30,78,1,1,1,1,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,1,24,Profesional,1,40,89,0,1,1,0,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,23,Profesional,1,35,82,1,0,0,1,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,19,Profesional,1,60,89,1,0,0,0,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,32,Profesional,1,20,88,1,1,1,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,29,Profesional,0,0,87,0,1,0,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,32,Profesional,0,0,88,0,0,1,1,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,0,25,Profesional,1,40,81,1,0,1,0,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,38,Profesional,1,50,80,0,1,1,1,0,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,24,Profesional,1,30,77,1,0,0,0,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,23,Profesional,1,40,90,1,0,0,1,0,3
+Licenciatura en Mercadotecnia y Publicidad,1,37,Profesional,0,0,85,1,0,0,0,1,0
+Licenciatura en Mercadotecnia y Publicidad,0,27,Profesional,1,40,83,0,0,1,1,1,2
+Licenciatura en Mercadotecnia y Publicidad,1,36,Profesional,1,30,86,0,0,1,0,1,0
+Licenciatura en Mercadotecnia y Publicidad,1,26,Profesional,1,30,90,0,1,1,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,0,19,Profesional,1,35,87,1,0,1,1,1,1
+Licenciatura en Mercadotecnia y Publicidad,0,19,Profesional,1,30,80,1,0,1,1,0,2
+Licenciatura en Mercadotecnia y Publicidad,0,23,Profesional,1,50,78,0,1,1,1,1,1
+Licenciatura en Mercadotecnia y Publicidad,1,25,Profesional,1,40,83,0,0,0,1,0,3
+Licenciatura en Mercadotecnia y Publicidad,1,35,Profesional,1,60,75,1,1,0,1,0,3
+Licenciatura en Mercadotecnia y Publicidad,0,32,Profesional,1,50,81,0,1,1,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,25,Profesional,0,0,82,0,1,1,1,0,2
+Licenciatura en Mercadotecnia y Publicidad,0,30,Profesional,1,35,82,1,1,1,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,28,Profesional,1,35,81,0,1,0,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,0,23,Profesional,1,30,87,0,1,1,0,1,3
+Licenciatura en Psicología Empresarial,1,21,Profesional,1,30,81,0,0,1,1,1,1
+Licenciatura en Psicología Empresarial,0,31,Profesional,1,20,80,1,0,0,0,0,3
+Licenciatura en Psicología Empresarial,0,36,Profesional,1,40,90,1,0,1,1,1,0
+Licenciatura en Psicología Empresarial,1,28,Profesional,1,40,83,1,0,0,1,1,0
+Licenciatura en Psicología Empresarial,1,31,Profesional,1,35,85,0,1,0,1,1,0
+Licenciatura en Psicología Empresarial,1,31,Profesional,1,40,86,0,0,0,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,47,Maestría,0,0,80,1,1,0,0,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,37,Maestría,1,40,90,1,1,1,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,37,Maestría,0,0,86,0,0,0,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,46,Maestría,1,45,89,0,1,1,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,25,Maestría,1,40,84,1,0,1,0,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,47,Maestría,1,40,88,0,0,0,1,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,36,Maestría,1,40,83,0,1,0,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,32,Maestría,0,0,82,0,1,0,1,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,36,Maestría,0,0,78,0,1,1,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,38,Maestría,1,30,78,0,1,1,0,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,27,Maestría,1,40,81,1,1,1,1,0,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,42,Maestría,1,20,87,0,0,1,0,1,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,41,Maestría,1,40,80,1,0,1,1,0,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,26,Maestría,1,30,77,1,0,1,1,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,36,Maestría,1,20,79,0,0,1,0,1,1
+Maestría en Administración de Negocios Área Finanzas,0,35,Maestría,1,30,75,0,0,1,0,0,0
+Maestría en Administración de Negocios Área Finanzas,1,26,Maestría,1,40,86,0,1,1,1,0,2
+Maestría en Administración de Negocios Área Finanzas,1,46,Maestría,1,15,78,0,1,0,1,1,2
+Maestría en Administración de Negocios Área Finanzas,0,40,Maestría,1,35,75,0,0,1,1,0,3
+Maestría en Administración de Negocios Área Finanzas,1,33,Maestría,0,0,79,1,1,0,0,1,0
+Maestría en Administración de Negocios Área Finanzas,1,33,Maestría,1,45,82,1,0,1,1,0,0
+Maestría en Administración de Negocios Área Logística,0,31,Maestría,1,60,75,1,1,0,0,1,3
+Maestría en Administración de Negocios Área Logística,1,46,Maestría,1,35,81,1,1,1,0,1,1
+Maestría en Administración de Negocios Área Logística,1,28,Maestría,1,20,79,1,0,0,1,1,1
+Maestría en Administración de Negocios Área Mercadotecnia,0,48,Maestría,1,30,90,1,1,1,0,1,2
+Maestría en Administración de Negocios Área Mercadotecnia,0,31,Maestría,1,30,82,0,0,1,0,0,3
+Maestría en Administración de Negocios Área Mercadotecnia,1,31,Maestría,1,20,81,0,1,1,0,1,1
+Maestría en Administración de Negocios Área Mercadotecnia,0,26,Maestría,1,40,90,1,1,1,0,1,0
+Maestría en Educación,0,48,Maestría,1,30,77,1,0,0,1,1,0
+Maestría en Educación,1,42,Maestría,1,20,75,1,0,0,0,0,1
+Maestría en Educación,0,41,Maestría,0,0,83,1,0,1,1,1,3
+Maestría en Educación,1,29,Maestría,1,30,78,0,1,1,0,0,0
+Maestría en Gestión de Tecnologías de Información,0,26,Maestría,1,40,86,1,1,0,1,0,1
+Maestría en Gestión de Tecnologías de Información,0,34,Maestría,1,50,90,1,0,0,1,0,1
+Maestría en Gestión de Tecnologías de Información,1,32,Maestría,1,45,81,0,1,0,0,1,1
+Especialidad en Innovación,1,39,Especialidad,0,0,89,0,1,1,1,1,0
+Especialidad en Innovación,1,25,Especialidad,1,40,76,1,1,0,0,1,3
+Especialidad en Innovación,1,44,Especialidad,1,40,86,0,0,1,0,1,3
+Especialidad en Innovación,1,34,Especialidad,1,40,77,0,1,0,0,1,1
+Especialidad en Innovación,0,30,Especialidad,1,40,75,1,0,0,0,1,0
+Especialidad en Innovación,0,35,Especialidad,1,40,77,1,1,0,1,0,2
+Especialidad en Innovación,0,43,Especialidad,1,30,86,0,0,0,0,0,0
+Especialidad en Innovación,1,25,Especialidad,0,0,90,1,1,0,1,1,1
+Especialidad en Innovación,0,29,Especialidad,1,30,78,1,0,1,0,0,3
+Especialidad en Innovación,1,44,Especialidad,1,40,86,0,1,0,1,1,1
+Especialidad en Innovación,1,35,Especialidad,0,0,85,1,1,1,1,0,1
+Especialidad en Innovación,1,40,Especialidad,1,40,82,1,1,1,0,0,3
+Especialidad en Innovación,1,32,Especialidad,1,30,79,1,1,0,1,0,1
+Especialidad en Innovación,1,30,Especialidad,1,20,89,0,1,1,0,0,3
+Especialidad en Innovación,1,44,Especialidad,1,30,79,0,0,0,0,1,0
+Especialidad en Innovación,1,44,Especialidad,1,40,75,1,0,0,1,1,3
+Especialidad en Innovación,1,27,Especialidad,1,50,86,1,0,1,0,1,2
+Especialidad en Innovación,0,28,Especialidad,0,0,76,0,1,0,1,0,1
+Especialidad en Innovación,1,26,Especialidad,1,30,89,0,1,1,0,0,2
+Licenciatura en Administración,1,30,Profesional,1,40,84,1,0,1,0,0,0
+Licenciatura en Administración,1,30,Profesional,1,40,88,0,0,1,0,1,1
+Licenciatura en Administración,1,30,Profesional,1,20,84,0,1,0,0,1,0
+Licenciatura en Administración,1,36,Profesional,1,35,80,1,0,1,1,0,1
+Licenciatura en Administración,0,20,Profesional,1,30,79,1,0,0,1,1,3
+Licenciatura en Administración,1,36,Profesional,1,50,84,0,0,0,0,0,1
+Licenciatura en Administración,1,34,Profesional,1,40,82,0,0,1,1,0,2
+Licenciatura en Administración,1,32,Profesional,1,40,83,1,0,1,0,1,3
+Licenciatura en Administración,1,30,Profesional,1,30,76,1,0,1,1,0,2
+Licenciatura en Administración,0,35,Profesional,1,40,76,1,0,1,1,1,0
+Licenciatura en Administración,1,26,Profesional,1,30,87,1,1,1,1,1,0
+Licenciatura en Administración,0,34,Profesional,1,45,84,1,1,1,0,0,0
+Licenciatura en Administración,0,27,Profesional,1,40,86,1,1,0,0,1,0
+Licenciatura en Administración,1,33,Profesional,1,15,78,1,1,1,0,0,2
+Licenciatura en Administración,0,22,Profesional,1,30,79,0,1,1,0,0,2
+Licenciatura en Administración,0,20,Profesional,1,35,81,1,1,0,1,0,0
+Licenciatura en Administración,0,28,Profesional,1,30,90,0,0,0,1,0,2
+Licenciatura en Administración,0,30,Profesional,1,30,84,0,1,1,0,0,2
+Licenciatura en Administración,1,32,Profesional,1,40,77,1,0,1,0,0,3
+Licenciatura en Comercio y Negocios Internacionales,1,24,Profesional,1,50,75,0,1,1,1,1,3
+Licenciatura en Comercio y Negocios Internacionales,0,25,Profesional,1,40,84,0,1,0,1,0,3
+Licenciatura en Comercio y Negocios Internacionales,1,22,Profesional,1,30,84,0,0,1,0,0,3
+Licenciatura en Comercio y Negocios Internacionales,0,26,Profesional,0,0,83,1,0,1,1,0,1
+Licenciatura en Comercio y Negocios Internacionales,0,36,Profesional,0,0,83,0,1,0,0,0,2
+Licenciatura en Comercio y Negocios Internacionales,0,21,Profesional,1,40,79,0,0,1,0,1,2
+Licenciatura en Comercio y Negocios Internacionales,0,28,Profesional,1,50,83,1,0,1,1,0,2
+Licenciatura en Comercio y Negocios Internacionales,1,35,Profesional,1,30,80,0,1,0,0,1,0
+Licenciatura en Comercio y Negocios Internacionales,0,37,Profesional,0,0,78,1,1,0,0,1,3
+Licenciatura en Comercio y Negocios Internacionales,0,23,Profesional,1,30,80,0,1,0,1,1,0
+Licenciatura en Comercio y Negocios Internacionales,0,28,Profesional,1,40,88,1,1,1,1,0,3
+Licenciatura en Comercio y Negocios Internacionales,1,24,Profesional,0,0,83,1,1,1,0,1,1
+Licenciatura en Comercio y Negocios Internacionales,0,38,Profesional,1,40,79,0,1,0,0,0,0
+Licenciatura en Derecho,1,38,Profesional,1,40,76,1,1,1,0,0,3
+Licenciatura en Derecho,1,32,Profesional,1,40,76,1,1,1,0,0,3
+Licenciatura en Derecho,1,32,Profesional,1,40,76,0,1,0,0,1,1
+Licenciatura en Derecho,1,38,Profesional,1,30,90,1,0,1,1,1,1
+Licenciatura en Derecho,0,29,Profesional,1,50,81,0,1,0,1,1,1
+Licenciatura en Derecho,0,32,Profesional,1,35,89,1,1,1,0,1,0
+Licenciatura en Derecho,0,28,Profesional,1,40,80,1,1,0,0,1,2
+Licenciatura en Derecho,1,25,Profesional,1,45,76,1,0,0,0,0,3
+Licenciatura en Derecho,1,36,Profesional,1,25,83,0,1,0,1,0,0
+Licenciatura en Derecho,1,26,Profesional,1,30,75,0,1,1,1,1,0
+Licenciatura en Derecho,1,35,Profesional,0,0,85,1,1,1,1,1,0
+Licenciatura en Derecho,0,24,Profesional,1,40,88,0,1,1,0,1,1
+Licenciatura en Derecho,0,21,Profesional,1,35,75,0,0,1,1,1,3
+Licenciatura en Derecho,0,27,Profesional,1,45,83,0,1,0,0,0,3
+Licenciatura en Educación y Desarrollo,1,21,Profesional,1,50,77,1,0,0,1,1,3
+Licenciatura en Educación y Desarrollo,0,33,Profesional,0,0,85,0,1,1,0,0,3
+Licenciatura en Educación y Desarrollo,1,20,Profesional,1,20,80,1,1,0,0,0,2
+Licenciatura en Educación y Desarrollo,0,25,Profesional,1,40,80,1,1,0,0,0,1
+Licenciatura en Educación y Desarrollo,0,33,Profesional,1,50,88,0,0,0,1,1,1
+Licenciatura en Educación y Desarrollo,0,23,Profesional,0,0,83,0,0,1,0,0,2
+Licenciatura en Educación y Desarrollo,1,29,Profesional,1,30,84,0,1,1,1,1,2
+Licenciatura en Educación y Desarrollo,1,20,Profesional,1,40,89,1,0,1,1,0,1
+Licenciatura en Ingeniería en Computación Administrativa,0,25,Profesional,1,40,81,1,0,0,0,1,2
+Licenciatura en Ingeniería en Computación Administrativa,1,37,Profesional,0,0,85,0,1,1,1,0,3
+Licenciatura en Ingeniería en Computación Administrativa,0,19,Profesional,0,0,83,1,1,1,1,1,0
+Licenciatura en Ingeniería en Computación Administrativa,0,29,Profesional,0,0,75,1,1,0,1,0,3
+Licenciatura en Ingeniería en Computación Administrativa,1,20,Profesional,1,30,79,1,0,1,1,0,1
+Licenciatura en Ingeniería en Computación Administrativa,1,22,Profesional,1,40,88,0,1,1,1,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,24,Profesional,1,40,79,0,0,0,0,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,1,24,Profesional,1,20,90,0,0,0,1,1,3
+Licenciatura en Ingeniería Industrial y de Sistemas,1,34,Profesional,1,50,84,1,0,0,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,0,36,Profesional,1,40,75,0,0,0,0,1,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,37,Profesional,1,30,83,1,0,1,1,1,2
+Licenciatura en Ingeniería Industrial y de Sistemas,1,31,Profesional,1,40,81,0,1,1,1,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,0,33,Profesional,1,35,81,0,0,0,0,1,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,20,Profesional,1,60,90,0,1,1,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,32,Profesional,1,20,88,1,1,0,0,0,0
+Licenciatura en Ingeniería Industrial y de Sistemas,1,36,Profesional,0,0,90,1,0,0,1,0,3
+Licenciatura en Ingeniería Industrial y de Sistemas,0,24,Profesional,0,0,78,1,0,1,1,0,1
+Licenciatura en Ingeniería Industrial y de Sistemas,1,21,Profesional,1,40,76,1,1,1,1,1,1
+Licenciatura en Ingeniería Industrial y de Sistemas,0,23,Profesional,1,50,84,1,1,0,1,0,2
+Licenciatura en Ingeniería Industrial y de Sistemas,0,33,Profesional,1,30,81,0,1,1,0,1,3
+Licenciatura en Mercadotecnia y Publicidad,1,22,Profesional,1,40,85,0,0,0,0,1,3
+Licenciatura en Mercadotecnia y Publicidad,1,20,Profesional,0,0,83,0,0,1,1,1,0
+Licenciatura en Mercadotecnia y Publicidad,0,32,Profesional,1,40,90,0,1,0,0,1,3
+Licenciatura en Mercadotecnia y Publicidad,1,22,Profesional,1,30,87,1,1,1,0,0,3
+Licenciatura en Mercadotecnia y Publicidad,1,33,Profesional,1,30,88,1,1,0,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,0,38,Profesional,1,35,89,0,0,1,0,1,0
+Licenciatura en Mercadotecnia y Publicidad,0,29,Profesional,1,30,81,0,0,1,1,1,0
+Licenciatura en Mercadotecnia y Publicidad,0,36,Profesional,1,50,77,1,1,0,1,0,1
+Licenciatura en Mercadotecnia y Publicidad,0,19,Profesional,1,40,77,1,1,1,0,0,3
+Licenciatura en Mercadotecnia y Publicidad,0,30,Profesional,1,60,77,1,0,1,0,0,0
+Licenciatura en Mercadotecnia y Publicidad,1,20,Profesional,1,50,82,1,0,1,0,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,28,Profesional,0,0,90,1,0,1,0,0,1
+Licenciatura en Mercadotecnia y Publicidad,1,34,Profesional,1,35,77,1,0,0,1,1,3
+Licenciatura en Mercadotecnia y Publicidad,1,31,Profesional,1,35,75,1,1,1,1,0,2
+Licenciatura en Mercadotecnia y Publicidad,1,31,Profesional,1,30,84,1,1,0,1,1,2
+Licenciatura en Psicología Empresarial,0,26,Profesional,1,30,81,0,1,1,1,1,0
+Licenciatura en Psicología Empresarial,0,28,Profesional,1,20,79,0,0,0,1,1,2
+Licenciatura en Psicología Empresarial,0,20,Profesional,1,40,88,1,0,0,1,0,1
+Licenciatura en Psicología Empresarial,0,34,Profesional,1,40,82,0,0,0,1,1,2
+Licenciatura en Psicología Empresarial,1,29,Profesional,1,35,89,1,0,0,0,1,2
+Licenciatura en Psicología Empresarial,1,29,Profesional,1,40,79,1,0,0,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,45,Maestría,0,0,77,0,1,1,0,1,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,35,Maestría,1,40,86,0,1,1,1,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,41,Maestría,0,0,77,1,1,0,1,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,29,Maestría,1,45,79,1,0,0,1,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,35,Maestría,1,40,88,0,0,1,0,1,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,30,Maestría,1,40,76,1,1,1,0,0,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,39,Maestría,1,40,80,0,1,0,1,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,43,Maestría,0,0,80,0,1,1,0,0,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,34,Maestría,0,0,88,1,1,0,1,0,0
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,38,Maestría,1,30,75,1,0,1,0,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,33,Maestría,1,40,80,0,1,1,1,0,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,32,Maestría,1,20,87,1,1,0,0,1,1
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,36,Maestría,1,40,78,1,0,1,1,0,2
+Maestría en Administración de Negocios Área Calidad y  Productividad,1,40,Maestría,1,30,81,1,1,0,0,1,3
+Maestría en Administración de Negocios Área Calidad y  Productividad,0,33,Maestría,1,20,78,0,1,1,1,0,1
+Maestría en Administración de Negocios Área Finanzas,1,39,Maestría,1,30,81,1,1,1,1,1,3
+Maestría en Administración de Negocios Área Finanzas,1,43,Maestría,1,40,79,0,1,1,1,0,0
+Maestría en Administración de Negocios Área Finanzas,0,37,Maestría,1,15,77,1,0,1,0,0,0
+Maestría en Administración de Negocios Área Finanzas,0,25,Maestría,1,35,78,0,1,1,1,1,1
+Maestría en Administración de Negocios Área Finanzas,1,41,Maestría,0,0,83,0,0,1,1,0,1
+Maestría en Administración de Negocios Área Finanzas,0,44,Maestría,1,45,85,1,0,1,0,1,3
+Maestría en Administración de Negocios Área Logística,0,46,Maestría,1,60,78,1,1,0,1,0,1
+Maestría en Administración de Negocios Área Logística,1,43,Maestría,1,35,89,0,0,1,1,1,0
+Maestría en Administración de Negocios Área Logística,1,34,Maestría,1,20,89,1,1,0,1,1,1
+Maestría en Administración de Negocios Área Mercadotecnia,1,45,Maestría,1,30,89,0,0,1,1,0,2
+Maestría en Administración de Negocios Área Mercadotecnia,0,29,Maestría,1,30,87,1,0,0,0,0,2
+Maestría en Administración de Negocios Área Mercadotecnia,0,43,Maestría,1,20,89,1,1,0,1,1,3
+Maestría en Administración de Negocios Área Mercadotecnia,0,37,Maestría,1,40,76,1,0,1,0,1,3
+Maestría en Educación,1,44,Maestría,1,30,77,1,1,0,0,0,3
+Maestría en Educación,1,31,Maestría,1,20,87,1,1,0,0,0,0
+Maestría en Educación,1,41,Maestría,0,0,90,0,0,0,0,1,1
+Maestría en Educación,1,41,Maestría,1,30,76,1,1,0,0,0,1
+Maestría en Gestión de Tecnologías de Información,1,30,Maestría,1,40,89,1,1,1,1,0,0
+Maestría en Gestión de Tecnologías de Información,0,31,Maestría,1,50,78,0,0,1,1,1,0
+Maestría en Gestión de Tecnologías de Información,0,34,Maestría,1,45,87,1,0,1,0,0,1
